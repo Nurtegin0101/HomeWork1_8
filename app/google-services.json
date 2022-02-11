@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779208984467",
+    "project_id": "notesapp-930d9",
+    "storage_bucket": "notesapp-930d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779208984467:android:c872da6abf024711b98a66",
+        "android_client_info": {
+          "package_name": "com.example.homework41"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779208984467-61icdamjkjhadqprcf0kjiasic1hq7vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZb77NkeztkePSbub3WvIVp62rp2xNKZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779208984467-61icdamjkjhadqprcf0kjiasic1hq7vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
